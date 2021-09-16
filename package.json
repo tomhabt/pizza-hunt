@@ -1,0 +1,25 @@
+{
+  "name": "pizza-hunt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Social interation application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhabt/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomhabt/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/tomhabt/pizza-hunt#readme"
+}
